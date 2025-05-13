@@ -4,6 +4,7 @@
 To write a C program to implement Tower of Hanoi
 
 ## Algorithm
+
 1. Start the program.
  
 2.Check if n is greater than 0
